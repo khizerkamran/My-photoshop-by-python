@@ -1,2 +1,3 @@
-# My-photoshop-by-python
-My photoshop by python
+# simpleImageEditor
+
+This repo has only the source code. Don't forget to add libraries.
